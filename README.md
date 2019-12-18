@@ -1,94 +1,33 @@
-# Jekyll Resume Theme
+# OSS 03 Project
 
-Live demo at https://jekyll-theme-minimal-resume.netlify.com/
+오픈소스게임 모듈화 및 기능 추가
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/24d80ae8-c3d9-4645-a6d8-9e97fc8dec3c/deploy-status)](https://app.netlify.com/sites/jekyll-theme-minimal-resume/deploys)
 
-# Stack
+# 프로젝트 개요
 
-![](https://img.shields.io/badge/jekyll-✓-blue.svg)
-![](https://img.shields.io/badge/html5-✓-blue.svg)
-![](https://img.shields.io/badge/sass-✓-blue.svg)
-![](https://img.shields.io/badge/sweet--scroll-✓-blue.svg)
-![](https://img.shields.io/badge/particle--js-✓-blue.svg)
-![](https://img.shields.io/badge/font--awesome-✓-blue.svg)
-![](https://img.shields.io/badge/devicon-✓-blue.svg)
-![](https://img.shields.io/badge/gulp-✓-blue.svg)
-
-***
-
-<h3 align="center">Please help this repo with a :star: if you find it useful! :blush:</h3>
-
-***
+안녕하세요 저희는 성균관대학교에 재학중인 오픈소스소프트웨어실습 3조입니다. 오픈소스게임 모듈화 및 기능추가하는 프로젝트를 진행하였으며 약 4가지 정도의 기능을 추가하였습니다. 다양한 사람들이 쉽게 게임에 접근할 수 있도록 코드를 객체화 시켰으며, 게임의 흥미를 위해 보스만들기, 운석 떨어뜨리기, 바람 넣기, 레벨 및 속도 조정 등 다양한 기능을 추가하였습니다.
 
 # Screenshot
 
 <p align="center">
-  <img src="https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/screenshot.png" width="90%" />
+  <img src= width="90%" />
 </p>
 
-# Quick Setup
+# Team member of team 03
 
-1. Install Jekyll: `gem install jekyll bundler`
-2. For this repository and clone your fork
-3. Edit `_config.yml` to personalize your site
+h1<김의연 (Team Leader)>
++ student ID: 2017311385
++ Role: 코드 구조 변경, 운석 떨어뜨리기
+h1<박수환>
++ student ID: 2018312229
++ Role: 보스 만들기
+h1<안현우>
++ student ID: 2018313516
++ Role: 주석, 번역 및 발표
+h1<김민성>
++ student ID: 2018312663
++ Role: Github io 제작
 
-# Settings
+# Commits
 
-You have to fill some informations on `_config.yml` to customize your site:
-
-## Site settings
-```yml
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:3000" # the base hostname & protocol for your site
-```
-
-## User settings
-```yml
-username: Lorem Ipsum
-user_description: Software Engineer at Lorem Ipsum Dolor
-user_title: Mauricio Urraco
-email: mauriurraco@gmail.com
-```
-
-> Don't forget to change your URL before you deploy your site!
-
-# Color and Particle Customization
-
-- Color Customization
-  - Edit the `.sass` variables
-- Particle Customization
-  - Edit the json data in particle function in `app.js`
-  - Refer to `Particle.js` for help
-  
-# Content
-
-You can (and should) edit the `.html` files for adding your own information, icons, working experience, social links or whatever you want to add. I.e.:
-
-```html
-<a aria-label="My Github" target="_blank" href="https://github.com/murraco">
-  <i class="icon fa fa-github-alt" aria-hidden="true"></i>
-</a>
-```
-
-# Running locally
-
-In order to compile the assets and run `Jekyll` locally you need to follow those steps:
-
-1. Install Jekyll
-2. Run `jekyll build`
-3. Start and http-server in the folder `_site`
-
-# Contribution
-
-- Report issues
-- Open pull request with improvements
-- Spread the word
-- Reach out to me directly at <mauriurraco@gmail.com>
-
-# Donate
-
-`btc: 36V7HqqENSKn6iFCBuE4iCdtB29uGoCKzN`
-
-`eth: 0xB419E3E9fa2233383E0877d442e55C34B9C944dD`
+We made 70 commits.
